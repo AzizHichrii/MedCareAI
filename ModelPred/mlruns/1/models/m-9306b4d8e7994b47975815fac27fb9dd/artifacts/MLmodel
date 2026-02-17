@@ -1,0 +1,23 @@
+artifact_path: file:///c:/Users/azizh/OneDrive/Bureau/TekSpire 2.0/ModelPred/mlruns/1/models/m-9306b4d8e7994b47975815fac27fb9dd/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-9306b4d8e7994b47975815fac27fb9dd
+model_size_bytes: 8095
+model_uuid: m-9306b4d8e7994b47975815fac27fb9dd
+prompts: null
+run_id: f6d2136269cd41b9843a2f3d0a96cfc0
+utc_time_created: '2026-02-17 15:19:11.693690'

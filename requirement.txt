@@ -1,0 +1,47 @@
+🧠 Structure dataset à préparer
+
+Pour ton agent prédictif :
+
+Patient_ID
+Age
+Sex
+Chest_Pain_Type
+Resting_BP
+Cholesterol
+Fasting_Blood_Sugar
+Max_Heart_Rate
+Exercise_Induced_Angina
+ST_Depression
+Target (0 = no disease, 1 = disease)
+
+
+Pour l’agent de recommandation :
+
+Diagnosis
+Risk_Level (Low / Medium / High)
+Recommended_Test
+Medication_Suggestion
+Lifestyle_Advice
+Urgency_Level
+🔍 Keywords de recherche (Google / Kaggle / PubMed)
+Pour dataset
+
+"heart disease prediction dataset"
+
+"cardiovascular risk dataset csv"
+
+"clinical decision support dataset"
+
+"electronic health records dataset public"
+
+"medical tabular dataset for ML"
+
+Pour recherche scientifique
+
+"AI clinical decision support system"
+
+"machine learning cardiovascular risk prediction"
+
+"multi-agent system healthcare"
+
+"explainable AI in medicine"
