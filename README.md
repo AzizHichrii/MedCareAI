@@ -97,11 +97,17 @@ Vérification conformité médicale
 👤 Côté Patient
 
 +Chat médical intelligent
+
 +Prédiction de maladie
+
 +Explication scientifique détaillée
+
 +Conseils personnalisés
+
 +Prise de rendez-vous
+
 +Consultation en ligne
+
 +Historique médical
 
 Messagerie sécurisée avec médecin
@@ -109,13 +115,21 @@ Messagerie sécurisée avec médecin
 👨‍⚕️ Côté Médecin
 
 +Dashboard professionnel
+
 +Liste des patients
+
 +Visualisation maladies prédites
+
 +Historique des consultations
+
 +Liste des rendez-vous
+
 +Messagerie patient
+
 +Validation des recommandations IA
+
 +Export rapport médical PDF
+
 +Mini EHR (Electronic Health Record)
 
 🛠 Technologies
