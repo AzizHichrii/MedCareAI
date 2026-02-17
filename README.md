@@ -163,12 +163,19 @@ Validation médicale avant réponse finale
 🚀 Roadmap Future
 
 ✅ ICD-10 automatic coding
+
 ✅ Ontologie médicale vectorisée
+
 🔲 Dashboard analytics santé publique
+
 🔲 Intégration assurance
+
 🔲 Téléconsultation vidéo
+
 🔲 Mobile App
+
 🔲 Système de triage intelligent
+
 🔲 Fine-tuning LLM médical propriétaire
 
 📊 Vision
@@ -179,9 +186,13 @@ IA + Médecin + Données scientifiques validées
 Un système :
 
 -Fiable
+
 -Sécurisé
+
 -Explicable
+
 -Assistif
+
 -Scalables
 
 ⚠️ Disclaimer
